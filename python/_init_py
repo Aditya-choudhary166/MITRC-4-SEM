@@ -1,0 +1,2 @@
+from lst import add #lst.py mai function banaya hai hai is mai import kiya hai
+print(add(2,3))
